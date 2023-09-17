@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+python-dotenv
+pypdf2
+tiktoken
+huggingface_hub
+sentence_transformers
+InstructorEmbedding
